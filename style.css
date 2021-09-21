@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(33, 33, 150);
+}
+
+.container {
+    background :transparent;
+    text-align: center;
+    margin-top: 200px;
+}
+
+table   {
+    height: 250px;
+    width: 170px;
+    margin: 0px auto;
+    border: 3px solid rgb(240, 232, 232);
+}
+
+td,tr {
+    border: 3px solid rgb(240, 228, 228);
+}
+.button {
+    width: 50;
+    height: 50;
+    font-size: 30;
+    margin: 2;
+    border: none;
+    cursor: pointer;
+}
+.button:hover{
+    width: 50;
+    height: 50;
+    font-size: 30;
+    margin: 2;
+    border: none;
+    color: cornsilk;
+    cursor: pointer;
+    background :rgb(111, 85, 204);
+    opacity: .7;
+}
